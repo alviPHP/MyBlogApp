@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UZAzkDDpZ9G8/ltaOWKMT4YZqKHs/SpMDmuSqlDjJq4=",
+  "Source": "Blog.WebApi",
+  "BasePath": "_content/Blog.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

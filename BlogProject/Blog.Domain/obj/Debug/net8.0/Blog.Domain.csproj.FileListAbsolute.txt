@@ -1,0 +1,13 @@
+D:\TechnoEuro2025\BlogProject\BlogProject\Blog.Domain\bin\Debug\net8.0\Blog.Domain.deps.json
+D:\TechnoEuro2025\BlogProject\BlogProject\Blog.Domain\bin\Debug\net8.0\Blog.Domain.dll
+D:\TechnoEuro2025\BlogProject\BlogProject\Blog.Domain\bin\Debug\net8.0\Blog.Domain.pdb
+D:\TechnoEuro2025\BlogProject\BlogProject\Blog.Domain\obj\Debug\net8.0\Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoEuro2025\BlogProject\BlogProject\Blog.Domain\obj\Debug\net8.0\Blog.Domain.AssemblyInfoInputs.cache
+D:\TechnoEuro2025\BlogProject\BlogProject\Blog.Domain\obj\Debug\net8.0\Blog.Domain.AssemblyInfo.cs
+D:\TechnoEuro2025\BlogProject\BlogProject\Blog.Domain\obj\Debug\net8.0\Blog.Domain.csproj.CoreCompileInputs.cache
+D:\TechnoEuro2025\BlogProject\BlogProject\Blog.Domain\obj\Debug\net8.0\Blog.Domain.sourcelink.json
+D:\TechnoEuro2025\BlogProject\BlogProject\Blog.Domain\obj\Debug\net8.0\Blog.Domain.dll
+D:\TechnoEuro2025\BlogProject\BlogProject\Blog.Domain\obj\Debug\net8.0\refint\Blog.Domain.dll
+D:\TechnoEuro2025\BlogProject\BlogProject\Blog.Domain\obj\Debug\net8.0\Blog.Domain.pdb
+D:\TechnoEuro2025\BlogProject\BlogProject\Blog.Domain\obj\Debug\net8.0\ref\Blog.Domain.dll
+D:\TechnoEuro2025\BlogProject\BlogProject\Blog.Domain\obj\Debug\net8.0\Blog.Domain.csproj.AssemblyReference.cache
